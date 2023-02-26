@@ -1,0 +1,41 @@
+
+{
+    "employees":[
+        {
+            "Name":"Sourav",
+            "DOB":"21-03-1999",
+            "Height":"160 cm",
+            "City":"New Delhi",
+            "State":"Delhi"
+        },
+        {
+            "Name":"Suraj",
+            "DOB":"12-09-1997",
+            "Height":"165 cm",
+            "City":"New Delhi",
+            "State":"Delhi"
+        },
+        {
+            "Name":"Vishal",
+            "DOB":"03-12-1998",
+            "Height":"162 cm",
+            "City":"New Delhi",
+            "State":"Delhi"
+        },
+        {
+            "Name":"Swati Rawat",
+            "DOB":"09-07-1999",
+            "Height":"160 cm",
+            "City":"New Delhi",
+            "State":"Delhi"
+        },
+        {
+            "Name":"Ankit Rawat",
+            "DOB":"26-12-1998",
+            "Height":"158 cm",
+            "City":"New Delhi",
+            "State":"Delhi"
+        }
+    ]
+
+}
