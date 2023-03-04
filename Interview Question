@@ -1,0 +1,147 @@
+Q1 What is a data type?
+Answer: A data type is a classification of data that determines the type of operations that can be performed on it. 
+In Python, some examples of data types are integers, floats, strings, booleans, and list.
+
+
+Q2 What is the difference between mutable and immutable data types?
+Answer: Mutable data types can be modified after they are created, while immutable data types cannot be modified. 
+For example, lists and dictionaries are mutable data types, while strings and tuples are immutable data types.
+
+
+Q3 How do you convert a string to an integer in Python?
+Answer: You can convert a string to an integer in Python using the int() function. 
+For example, int("5") will return the integer 5.
+
+
+Q4 What is the difference between a float and an integer data type? When would you use each?
+Answer: An integer is a whole number, while a float is a decimal number. 
+Integers is use for counting or whole-number calculations, while floats are used for more precise calculations that involve decimals.
+
+
+Q5 What is an operator in Python?
+Answer: An operator is a symbol or function that performs an operation on one or more values. 
+Examples of operators in Python include arithmetic operators (+, -, *, /), comparison operators (==, !=, <, >), and logical operators (and, or, not).
+
+
+Q6 What is the difference between the '==' operator and the 'is' operator in Python?
+Answer: The '==' operator checks if two values are equal, while the 'is' operator checks if two values refer to the same object in memory.
+
+
+Q7 How do you use the 'in' operator in Python?
+Answer: The 'in' operator is used to check if a value is in a sequence, such as a string or a list. 
+For example, "a" in "abc" will return True.
+
+
+Q8 What is the difference between the 'and' and 'or' operators in Python?
+Answer: The 'and' operator returns True if both operands are True, while the 'or' operator returns True if at least one operand is True.
+
+
+Q9 How do you use the 'not' operator in Python?
+Answer: The 'not' operator is used to invert the value of a boolean expression. 
+For example, not True will return False.
+
+
+Q10 What is a conditional statement in Python?
+Answer: A conditional statement is a statement that performs different actions based on whether a condition is True or False. 
+An example of a conditional statement in Python is the if statement:
+if x > 0:
+print("x is positive")
+else:
+print("x is negative or zero")
+
+
+
+Q11 How do you use the 'if', 'elif', and 'else' statements in Python?
+Answer: The 'if' statement is used to test a condition, while the 'elif' statement is used to test additional conditions. 
+The 'else' statement is used to perform an action if none of the conditions are True. 
+For example:
+if x > 0:
+print("x is positive")
+elif x == 0:
+print("x is zero")
+else:
+print("x is negative")
+
+
+Q12 What is the purpose of the 'pass' statement in Python?
+Answer: The 'pass' statement in Python is a placeholder statement that does nothing. 
+It is used when you need to have a statement in your code to satisfy the syntax requirements, but you don't want to execute any code. 
+For example, 
+it can be used as a placeholder when you are defining a function or a class and haven't yet written the implementation.
+
+
+Q13 What is a looping statement in Python?
+Answer: A looping statement in Python is a statement that allows you to repeatedly execute a block of code. 
+There are two types of looping statements in Python: 'for' loops and 'while' loops. 
+
+
+Q14 How do you use the 'for' loop in Python?
+Answer: The 'for' loop in Python is used to iterate over a sequence (such as a list or a string) and execute a block of code for each element in the sequence. 
+
+
+Q15 How do you use the 'while' loop in Python?
+Answer: The 'while' loop in Python is used to repeatedly execute a block of code as long as a certain condition is true. 
+
+
+Q16 What is the purpose of the 'break' statement in Python?
+Answer: The 'break' statement in Python is used to exit a loop prematurely. When a 'break' statement is encountered inside a loop, 
+the loop is immediately terminated and the program execution continues with the next statement after the loop. 
+The 'break' statement is often used in combination with conditional statements to exit a loop early if a certain condition is met.
+
+
+Q17 What is the difference between the 'continue' and 'pass' statements in Python?
+Answer: The 'continue' and 'pass' statements in Python are both used in loops, but they have different purposes. 
+The 'continue' statement is used to skip over the current iteration of a loop and move on to the next iteration. 
+The 'pass' statement is used as a placeholder when you need to have a statement in your code to satisfy the syntax requirements, but you don't want to execute any code. 
+The 'pass' statement does nothing and simply allows the program to continue executing.
+
+
+Q18 What is a function in Python? Can you provide an example?
+Answer: A function in Python is a block of code that performs a specific task. 
+It is a self-contained unit of code that can be called from other parts of a program. 
+Functions help to organize code into smaller, more manageable pieces, and make it easier to reuse code.
+
+
+Q19 How do you define a function in Python?
+Answer: To define a function in Python, you use the 'def' keyword, followed by the name of the function and a set of parentheses. 
+Inside the parentheses, you can specify any parameters that the function should take. 
+The body of the function is indented and contains the code that should be executed when the function is called. 
+
+
+Q20 What is the purpose of the 'return' statement in Python?
+Answer: The 'return' statement in Python is used to return a value from a function. 
+When a 'return' statement is encountered inside a function, the function is immediately terminated and the value specified in the 'return' statement is passed back to the calling code. 
+The 'return' statement is optional, and if it is omitted, the function will not return a value.
+
+
+Q21 What is a default parameter in Python?
+Answer: A default parameter in Python is a parameter that has a default value specified in the function definition. 
+If a value is not provided for the parameter when the function is called, the default value is used instead. 
+
+
+Q22 What is the difference between a function call and a function definition in Python?
+Answer: A function call in Python is when you actually invoke the function and pass in any necessary arguments. 
+A function definition in Python is the code that defines what the function does and how it should be executed. 
+The function definition is where you specify the name of the function, any parameters it should take, and the code that should be executed when the function is called.
+When you call a function, the code inside the function definition is executed with the arguments you pass in.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
